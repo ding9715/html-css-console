@@ -19,7 +19,8 @@
 部署完成后的地址：
 
 ```text
-https://{用户名}.github.io/html-css-console/
+https://github.com/ding9715/html-css-console/
+
 ```
 
 入口是标准的 `index.html`，所以根地址可以直接打开，不需要在 URL 后追加文件名。
